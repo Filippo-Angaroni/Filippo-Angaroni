@@ -1,0 +1,6 @@
+.search-result-div {
+    position: absolute;
+    width: auto;
+    height: fit-content;
+    max-height: 100px;
+}
